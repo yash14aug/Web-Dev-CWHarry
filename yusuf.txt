@@ -1,0 +1,77 @@
+Yusuf SHARMA
+514-260-6679
+yash.st16@gmail.com • https://www.linkedin.com/in/yash-s-01308b111
+206 2805 RUE GOYER, Montréal, Québec, H3S 1H2
+PROFESSIONAL SUMMARY
+Resourceful team player with experience with common software applications and social media
+platforms. Well-versed in business organization and strategies for successfully modernizing
+workplaces. Skilled at project support with a proven history of solutions-oriented problem-solving.
+WORK EXPERIENCE
+Production Specialist
+Les Plats Du Chef • Montréal, Québec
+* Coordinating and expediting the flow of work and materials within an establishment according
+to production schedule whilst maintaining 100% performance.
+* Reviewing and distributing production and work schedules.
+* Conferring with supervisors to determine progress of work and completion dates.
+* Providing feedback to supervisors on materials, production and inventory problems
+Customer Service Representative
+VoxData • Montréal, Québec
+* Maintaining a positive, empathetic and professional attitude toward customers at all times by
+responding promptly to customer inquiries.
+* Acknowledging and resolving customer complaints, processing and tracking their orders.
+* Keeping records of customer interactions, transactions, comments and complaints.
+* Communicating and coordinating with colleagues as necessary.
+* Ensure customer satisfaction and provide professional customer support with 95% positive
+feedback.
+Member of Technical Staff , R&D Nov 2018 - Jul 2019
+MetricStream • Bengaluru , Karnataka, India
+* Incorporation up to 80% in the company’s projects’ quality management area.
+* Worked as a part of a team which provides GRC solutions to various businesses worldwide.
+* Modified various modules using Java and PL/SQL.
+* Testing applications and websites developed according to systems requirement specification
+documents provided by the client.
+* Writing reports for bugs and updating it on a daily basis on the bug tracking system for the
+developers to look and resolve it.
+* Suggesting new ideas and improvements for the ongoing projects that increased productivity
+by 40%.
+Intern Jan 2018 - May 2018
+Infosys • Mysore , Karnataka, India
+* Learned about Java and Python.
+* Worked on JAVA EE Project ->Business Tier
+* Learned about Design Patterns eg Data Access Object, Factory, Builder, Singleton, Observer.
+Used Log4j and JUnit appropriately.
+* Persistence Tier - Hibernate with Oracle 10g.
+* Presentation Tier - Designing Using Twitter-Bootstrap, Angular 4.
+* Creating RESTful Web Services using JAX-RS 2.0.
+EDUCATION
+Post Graduate Certificate in Mobile Application Development Feb 2020 - Aug 2021
+Cégep de La Gaspésie | Montréal, QC • Montréal, Québec
+Bachelors in Engineering , Computer Science Jul 2014 - May 2018
+Punjabi University • Patiala , Punjab, India
+SKILLS
+* Punctual, committed and hardworking.
+* Reliable, honest, and proven ability to work positively.
+* Good verbal and written communication skills
+* Can work within a strict work environment.
+* Willing to accept challenges.
+* Can work in both teams as well as individually.
+* Advanced Customer Service skills with internal and external clients via telephone and email.
+* Fluent in English
+VOLUNTEER WORK
+Senior Governance Team
+Infosys • Mysore , Karnataka, India
+* Provide feedback, suggestions, issues and bottlenecks to the HR Department
+* Leadership, Communication and Management skills
+ACHIEVEMENTS
+* Got selected as a member of the Senior Governance Team(SGT) in Infosys during my
+internship.
+* Participated in Inter Universities Youth Fest
+* Got spot award for performance as a beginner in the organization for contributing towards the
+reduction of efforts in verifying access control logic.
+* Won a Mock Interview Competition in the Annual University Technical Fest.
+TECHNICAL SKILLS
+* Languages : C , C++ , C# , Java , JavaScript, Python , AngularJS , HTML , CSS , Bootstrap
+* Operating System : Windows 7 , Windows 10 , Linux
+* Frameworks : Django , ASP .NET Core , Entity Framework Core
+* Database : MySQL , Oracle
+* Tools : Atom , Visual Studio
